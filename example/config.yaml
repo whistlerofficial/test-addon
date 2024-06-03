@@ -1,8 +1,8 @@
 # https://developers.home-assistant.io/docs/add-ons/configuration#add-on-config
-name: Example add-on
-version: "1.2.0"
+name: Whistler Test Addon
+version: "0.1"
 slug: example
-description: Example add-on
+description: TEST Whistler
 url: "https://github.com/home-assistant/addons-example/tree/main/example"
 arch:
   - armhf
